@@ -1,4 +1,4 @@
-# <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
+# <img width="600" height="200" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Gato_leyendo_canal_IRC_de_Wikipedia_en_espa%C3%B1ol.jpg" alt="Material Bread logo">
 # <p align="center">ft_irc (internet relay chat)</p>
 
 ## Description
