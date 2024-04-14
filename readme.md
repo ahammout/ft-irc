@@ -1,6 +1,6 @@
-# ft_irc (internet relay chat)
+# <p align="center">ft_irc (internet relay chat)</p>
 
-#### Description
+## Description
 
 Well, ft_irc is a project that brings IRC protocol to life, by implementing a server that offers a real-time messaging that can  be either public or private, Users can exchange direct messages and join group channels.
 + About Internet relay chat in general:
@@ -8,5 +8,5 @@ IRC was invented by the Finn Jarkko Oikarinen in 1988 when he was at the Univers
 It is important to note that each channel is defined by a specific topic and users also have the option to create their very own channel. Highly frequented IRC chat rooms of the “Libera.Chat” network in 2021 include “#linux” in which users exchange information about the Linux operating system and “#python” which is about the programming language of the same name. IRC is used by both individuals and businesses because it greatly facilitates text-based communication.
 
 
-#### Resoureses
+## Resoureses
 <a href="https://www.ionos.com/digitalguide/server/know-how/irc/#:~:text=IRC%20was%20invented%20by%20the,immensely%20within%20a%20few%20years">About Internet relay chat</a>
