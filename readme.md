@@ -15,5 +15,7 @@ It is important to note that each channel is defined by a specific topic and use
 
 ## How to Use the Project
 
+## Preview
+
 ## Resoureses
 <a href="https://www.ionos.com/digitalguide/server/know-how/irc/#:~:text=IRC%20was%20invented%20by%20the,immensely%20within%20a%20few%20years">About Internet relay chat</a>
