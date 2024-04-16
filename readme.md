@@ -54,7 +54,7 @@ nc 127.0.0.1 8080
 # <img width="800" height="1000" src="./Authentication.png" alt="Internet relay chat">
 
 > Send a direct message
-# <img width="800" height="1000" src="./Direct.png" alt="Internet relay chat">
+# <img width="1000" height="1000" src="./Direct.png" alt="Internet relay chat">
 
 > Join to a channel
 
