@@ -29,9 +29,9 @@ make
 ```
 nc 127.0.0.1 8080
 ```
-- after connecting to the server, it is mandatory to authenticate with a nick name and a user name by using the commands ```NICK``` & ```USER * * * *``` those commands are supported by the server, there is a third command used on the authentication part, which is pass command, this command has the priority on the authentication process, the associated password with pass command need to be matched with the server's password otherwise the authentication fails in this part.
+- after connecting to the server, it is mandatory to authenticate with a nick name and a user name by using the commands ```NICK``` & ```USER * * * *``` those commands are supported by the server, there is a third command used on the authentication part, which is pass, this command has the priority on the authentication process, the associated password with pass command need to be matched with the server's password otherwise the authentication fails in this part.
 
-+ The server supports some sort of commands from the client those commands can be listed by using 'man' command after authenticate, the man command also can give the manual about each supported commands by specifying the name of the command after 'man' command.
++ The server supports some sort of commands from the client, those commands can be listed by using 'man' command after authenticate, the man command also can give the manual about each supported commands by specifying the name of the command after 'man' command.
 
 > Those are the suported commands by the server
 ```
@@ -46,6 +46,8 @@ nc 127.0.0.1 8080
     * MODE
     * PART 
 ```
+> [!TIP]
+> To get information about any command from the listed commands bellow use the man command.
 
 ## Preview
 
