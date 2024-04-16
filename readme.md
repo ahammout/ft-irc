@@ -14,14 +14,17 @@ It is important to note that each channel is defined by a specific topic and use
 ##  How to Install and Run the Project
 
 + Before running the program, run make to compile the files and insure that the executable file is exist named by 'ircserv'
-``` make ```
+```
+make
+```
 
 + Run the server, by executing the 'ircserv' that takes two parameters the first parameter is the port that the server will listen on, and the second is the server password.
 ```
-    ./ircserv 8080 password
+./ircserv 8080 password
 ```
 
 ## How to Use the Project
+* After running the program, the server will listen on the port passed as an argument to the program for the incomming connections, by using 
 
 ## Preview
 
