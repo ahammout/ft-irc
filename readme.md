@@ -51,7 +51,7 @@ nc 127.0.0.1 8080
 
 ## Preview
 > Authentication
-# <img width="500" height="200" src="./Screen Shot 2024-04-16 at 12.17.36 PM.png" alt="Internet relay chat">
+# <img width="800" height="1000" src="./Screen Shot 2024-04-16 at 12.17.36 PM.png" alt="Internet relay chat">
 
 ## Resoureses
 <a href="https://www.ionos.com/digitalguide/server/know-how/irc/#:~:text=IRC%20was%20invented%20by%20the,immensely%20within%20a%20few%20years">About Internet relay chat</a>
