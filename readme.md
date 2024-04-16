@@ -18,13 +18,13 @@ It is important to note that each channel is defined by a specific topic and use
 make
 ```
 
-+ Run the server, by executing the 'ircserv' that takes two parameters the first parameter is the port that the server will listen on, and the second is the server password.
++ Run the server, by executing the ./ircserv that takes two parameters the first parameter is the port that the server will listen on, and the second is the server password.
 ```
 ./ircserv 8080 password
 ```
 
 ## How to Use the Project
-* After running the program, the server will listen on the port passed as an argument to the program for the incomming connections, by using 
+* After running the program, the server will listen on the port passed as an argument to the program for the incomming connections, and for incomming events, when the server catches an event, it will be processed and executed with an appropriate action, the server handles those events, by starting with figuring out the nature of the event, 
 
 ## Preview
 
