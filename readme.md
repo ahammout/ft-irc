@@ -24,7 +24,13 @@ make
 ```
 
 ## How to Use the Project
-* After running the program, the server will listen on the port passed as an argument to the program for the incomming connections, and for incomming events, when the server catches an event, it will be processed and executed with an appropriate action, the server handles those events, by starting with figuring out the nature of the event, 
+* After running the program, the server will listen on the port passed as an argument to the program for the incomming connections, and for incomming events, when the server catches an event, it will be processed and executed with an appropriate action.
+> To connect to the server use some TCP/UDP client, you can use nc "Netcat" to connect to the server
+```
+nc 127.0.0.1 8080
+```
+
++ The server accepts a set of commands from the client
 
 ## Preview
 
