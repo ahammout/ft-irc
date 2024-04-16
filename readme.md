@@ -47,9 +47,13 @@ nc 127.0.0.1 8080
     * PART 
 ```
 > [!TIP]
-> To get information about any command from the listed commands bellow use the man command.
+> Use man too get information about any command from the commands listed above.
 
 ## Preview
+> Authentication
+# <img width="500" height="200" src="./Screen Shot 2024-04-16 at 12.17.36 PM.png" alt="Internet relay chat">
 
 ## Resoureses
 <a href="https://www.ionos.com/digitalguide/server/know-how/irc/#:~:text=IRC%20was%20invented%20by%20the,immensely%20within%20a%20few%20years">About Internet relay chat</a>
+
+<username> <hostname> <servername> <realname>
