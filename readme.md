@@ -51,15 +51,17 @@ nc 127.0.0.1 8080
 
 ## Preview
 > Authentication
-# <img width="800" height="1000" src="./Authentication.png" alt="Internet relay chat">
+# <img width="800" height="1000" src="./Authentication.png" alt="Authentication">
 
 > Send a direct message
-# <img width="1000" height="800" src="./Direct.png" alt="Internet relay chat">
+# <img width="1000" height="800" src="./Direct.png" alt="Send a direct message">
 
 > Join to a channel
-# <img width="1500" height="800" src="./Channels.png" alt="Internet relay chat">
+# <img width="1500" height="800" src="./Channels.png" alt="Join to a channel">
 
 > Channel management
+# <img width="1500" height="800" src="./ChannelManagement.png" alt="Channel management">
+
 
 ## Resoureses
 <a href="https://www.ionos.com/digitalguide/server/know-how/irc/#:~:text=IRC%20was%20invented%20by%20the,immensely%20within%20a%20few%20years">About Internet relay chat</a>
