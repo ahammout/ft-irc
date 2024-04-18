@@ -57,6 +57,7 @@ nc 127.0.0.1 8080
 # <img width="1000" height="1000" src="./Direct.png" alt="Internet relay chat">
 
 > Join to a channel
+# <img width="1500" height="1000" src="./Channels.png" alt="Internet relay chat">
 
 > Channel management
 
