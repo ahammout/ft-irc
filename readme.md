@@ -50,21 +50,18 @@ nc 127.0.0.1 8080
 > Use man too get information about any command from the commands listed above.
 
 ## Preview
-* Authentication
+### Authentication
 # <img width="800" height="1000" src="./Authentication.png" alt="Authentication">
 
-* Send a direct message
+### Send a direct message
 # <img width="1000" height="800" src="./Direct.png" alt="Send a direct message">
 
-* Join to a channel
+### Join to a channel
 # <img width="1500" height="800" src="./Channels.png" alt="Join to a channel">
 
-* Channel management
+### Channel management
 # <img width="1500" height="800" src="./ChannelManagement.png" alt="Channel management">
-
 
 ## Resoureses
 + <a href="https://datatracker.ietf.org/doc/html/rfc1459">Rfc 1459</a><br>
 + <a href="https://www.ionos.com/digitalguide/server/know-how/irc/#:~:text=IRC%20was%20invented%20by%20the,immensely%20within%20a%20few%20years">About Internet Relay Chat</a>
-
-<username> <hostname> <servername> <realname>
