@@ -64,7 +64,7 @@ nc 127.0.0.1 8080
 
 
 ## Resoureses
-<a href="https://datatracker.ietf.org/doc/html/rfc1459">Rfc 1459</a>
+<a href="https://datatracker.ietf.org/doc/html/rfc1459">Rfc 1459</a><br>
 <a href="https://www.ionos.com/digitalguide/server/know-how/irc/#:~:text=IRC%20was%20invented%20by%20the,immensely%20within%20a%20few%20years">About Internet relay chat</a>
 
 <username> <hostname> <servername> <realname>
